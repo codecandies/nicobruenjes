@@ -1,0 +1,23 @@
+{
+  "title": "Nico Brünjes",
+  "url": "https://nicobruenjes.dev",
+  "subtitle": "No cookies required",
+  "description": "Das Weblog von Nico Brünjes",
+  "language": "de-DE",
+  "feed": {
+    "subtitle": "Das Weblog von Nico Brünjes.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://nicobruenjes.dev"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://nicobruenjes.dev/feed/feed.json"
+  },
+  "author": {
+    "name": "Nico Brünjes",
+    "email": "nico@couchblog.de",
+    "url": "https://nicobruenjes.dev/seiten/about/",
+    "twitter": "@nicobruenjes"
+  }
+}
